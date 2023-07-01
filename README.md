@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+![Screenshot 2023-07-01 172300](https://github.com/sinhasudhanshu/moviesite/assets/108268913/93f1c8ff-7784-473c-b682-0d075ef6934a)
+
+![Screenshot 2023-07-01 172424](https://github.com/sinhasudhanshu/moviesite/assets/108268913/76d9c1fb-8b15-4cff-ada2-4d45833afa4f)
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
